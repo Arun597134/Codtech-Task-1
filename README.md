@@ -20,7 +20,7 @@ p {
 </head>
 <body>
 
-<h1>CODETECH IT SOLUTIONS </h1>
+<h1>Full stack Web development </h1>
 <p>hello,</p>
 <p>My Name Is M.Arun,</p>
 <p>I am doing internship at codtech it is and this is my First internship,</p>
